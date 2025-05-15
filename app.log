@@ -1,0 +1,52 @@
+2025/05/15 23:24:39 Start
+2025/05/15 23:24:42 User input: halp
+2025/05/15 23:24:44 User input: hel
+2025/05/15 23:24:46 User input: help
+2025/05/15 23:24:46 Help Command
+2025/05/15 23:25:02 User input: add task1 niggatask scase
+2025/05/15 23:25:02 Saving args: task1 niggatask scase
+2025/05/15 23:25:02 Adding task task1 niggatask scase
+2025/05/15 23:25:02 Adding task task1 niggatask scase
+2025/05/15 23:25:09 User input: list
+2025/05/15 23:25:09 Listing tasks
+2025/05/15 23:25:23 User input: add task2nigga use drugs
+2025/05/15 23:25:23 Saving args: task2nigga use drugs
+2025/05/15 23:25:23 Adding task task2nigga use drugs
+2025/05/15 23:25:23 Adding task task2nigga use drugs
+2025/05/15 23:25:25 User input: list
+2025/05/15 23:25:25 Listing tasks
+2025/05/15 23:25:31 User input: complete task3
+2025/05/15 23:25:31 Saving args: task3
+2025/05/15 23:25:31 Done task task3
+2025/05/15 23:25:31 task not found
+2025/05/15 23:25:37 User input: complete task1
+2025/05/15 23:25:37 Saving args: task1
+2025/05/15 23:25:37 Done task task1
+2025/05/15 23:25:37 Done task task1
+2025/05/15 23:25:42 User input: add 123
+2025/05/15 23:25:42 Saving args: 123
+2025/05/15 23:25:42 Invalid arguments [123]
+2025/05/15 23:25:53 User input: del 123
+2025/05/15 23:25:53 Saving args: 123
+2025/05/15 23:25:53 Deleting task 123
+2025/05/15 23:25:53 task not found
+2025/05/15 23:25:59 User input: del task1
+2025/05/15 23:25:59 Saving args: task1
+2025/05/15 23:25:59 Deleting task task1
+2025/05/15 23:25:59 task not found
+2025/05/15 23:26:04 User input: del task2
+2025/05/15 23:26:04 Saving args: task2
+2025/05/15 23:26:04 Deleting task task2
+2025/05/15 23:26:04 task not found
+2025/05/15 23:26:06 User input: list
+2025/05/15 23:26:06 Listing tasks
+2025/05/15 23:26:12 User input: del task2nigga
+2025/05/15 23:26:12 Saving args: task2nigga
+2025/05/15 23:26:12 Deleting task task2nigga
+2025/05/15 23:26:12 Deleted task: task2nigga
+2025/05/15 23:26:13 User input: list
+2025/05/15 23:26:13 Listing tasks
+2025/05/15 23:26:17 User input: help
+2025/05/15 23:26:17 Help Command
+2025/05/15 23:26:28 User input: exit
+2025/05/15 23:26:28 Exit
